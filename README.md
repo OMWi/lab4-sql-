@@ -1,6 +1,7 @@
 # Проделанная работа
 1. Восстановлена БД AdventureWorks2019  👍🏻
-2. Выбраны 5 таблиц:Person.Person, Person.EmailAddress, Person.Address, Person.Password, Person.Phone. Person.Address связана AddressID, остальные - BusinessID  👍🏻
+2. Выбраны 5 таблиц:Person.Person, Person.EmailAddress, Person.Address, Person.Password, Person.Phone.  
+Person.Address связана AddressID, остальные - BusinessID  👍🏻
 3. Написано 5 хранимых процедур. Пример одной из них:  👍🏻
 ```
 USE [AdventureWorks2019]   

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<XmlModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PersonalInfo>
+    <Name>Gail</Name>
+    <PhoneNumber>849-555-0139</PhoneNumber>
+  </PersonalInfo>
+  <LoginInfo>
+    <Email>gail0@adventure-works.com</Email>
+    <Password>qYhZRiM=</Password>
+  </LoginInfo>
+  <AddressInfo>
+    <Address>1226 Shoe St.</Address>
+  </AddressInfo>
+</XmlModel>
